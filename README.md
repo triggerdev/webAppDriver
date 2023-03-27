@@ -1,2 +1,1 @@
-# webAppDriver
-Driver for webapp telegram
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
